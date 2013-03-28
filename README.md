@@ -7,6 +7,8 @@ Compile a kohana into an extension.
 
 email:dreamsxin@qq.com
 
+Completed-API:https://github.com/dreamsxin/CKohana/wiki/Completed-API
+
 #### Requirements
 We need some packages previously installed.
 
