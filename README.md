@@ -25,6 +25,7 @@ Compilation
 -----------
 
 ```bash
+cd CKohana
 phpize
 ./configure --enable-kohana
 make
